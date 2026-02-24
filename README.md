@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yong3pole&label=Profile%20views&color=0e75b6&style=flat" alt="yong3pole" /> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning this framework: **Ruby on Rails**
 
 - 👨‍💻 Some of my projects are available at [https://sites.google.com/view/leojtripole/home](https://sites.google.com/view/leojtripole/home)
 
